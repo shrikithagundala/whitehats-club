@@ -1,5 +1,4 @@
 # whitehats-club
-My introduction for the cybersecurity club WhiteHats. Intro task: about me, why I want to join, and a recent cybersecurity incident
 
 My name is G Shrikitha.
 I'm a 1st year BTech- Information Technology student.
